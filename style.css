@@ -1,0 +1,9 @@
+body{
+    background-color: gray;
+    font-size: 12px
+}
+
+img{
+    max-width: 300px;
+    max-height: 400px; 
+}
