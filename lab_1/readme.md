@@ -1,32 +1,13 @@
-// use a css animation method on the file 
-https://www.w3schools.com/css/css3_animations.asp
+for volunteering 
+<i class="fas fa-hands"></i>
+
+for travel 
+<i class="far fa-plane"></i>
 
 
-div {
-    width: 100px;
-    height: 100px;
-    background-color: red;
-    -webkit-animation-name: example; /* Safari 4.0 - 8.0 */
-    -webkit-animation-duration: 4s; /* Safari 4.0 - 8.0 */
-    animation-name: example;
-    animation-duration: 4s;
-}
+for consulting 
+<i class="fas fa-handshake"></i>
 
-/* Safari 4.0 - 8.0 */
-@-webkit-keyframes example {
-    from {background-color: red;}
-    to {background-color: yellow;}
-}
+<i class="fas fa-chart-line"></i>
 
-/* Standard syntax */
-@keyframes example {
-    from {background-color: red;}
-    to {background-color: yellow;}
-}
-consider the example of http://www.belcortes.com/
-
-would a circle origination point be appropriate? can each square enlarge as you enter it?
-
-find a few photos to represent travel, volunteering groups, consulting, 
-catagories: projects-wdi, crystals and ingrids,
-
+640 by 480 in mac preview

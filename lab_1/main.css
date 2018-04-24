@@ -1,0 +1,23 @@
+body {
+    font-family: 'Bellefair', serif;
+    margin-top: 70px;
+}
+
+.max-viewport {
+    min-height: 100vh;
+}
+
+.transparent {
+    background-color: #488286
+}
+#banner,
+#contact,
+#social {
+    background: linear-gradient(
+        rgba(183,213,212,0.6), rgba(183,213,212,0.6)),
+        url(images/portfoliobackground.jpg);
+        background-attachment: fixed;
+        background-position: center;
+        background-repeat: no-repeat;
+        background-size: cover; 
+}
